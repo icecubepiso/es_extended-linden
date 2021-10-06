@@ -352,7 +352,7 @@ Citizen.CreateThread(
 		if vRaw then
 			local v = json.decode(vRaw)
 			PerformHttpRequest(
-				'https://raw.githubusercontent.com/thelindat/es_extended/linden/version.json',
+				'https://raw.githubusercontent.com/icecubepiso/es_extended-linden/main/version.json',
 				function(code, res, headers)
 					if code == 200 then
 						local rv = json.decode(res)
@@ -364,7 +364,7 @@ Citizen.CreateThread(
 ^1----------------------------------------------------------------------
 ^1URGENT: YOUR ES_EXTENDED IS OUTDATED!
 ^1COMMIT UPDATE: ^5%s AVAILABLE
-^1DOWNLOAD:^5 https://github.com/thelindat/es_extended
+^1DOWNLOAD:^5 https://github.com/icecubepiso/es_extended-linden
 ^1CHANGELOG:^5 %s
 ^1-----------------------------------------------------------------------
 ^0]]):format(
@@ -395,7 +395,7 @@ Citizen.CreateThread(
 ^1----------------------------------------------------------------------
 ^1URGENT: YOUR ES_EXTENDED IS OUTDATED!!!
 ^1COMMIT UPDATE: ^5%s AVAILABLE
-^1DOWNLOAD:^5 https://github.com/thelindat/es_extended
+^1DOWNLOAD:^5 https://github.com/icecubepiso/es_extended-linden
 ^1CHANGELOG:^5 %s
 ^1-----------------------------------------------------------------------
 ^0]]):format(
