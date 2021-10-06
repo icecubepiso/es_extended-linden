@@ -1,8 +1,8 @@
-<h1 align='center'>ESX Legacy</a></h1><p align='center'><b><a href='https://discord.gg/cNx6HF9P5J'>Development Discord</a> - <a href='https://esx-framework.org/'>Website</a> - <a href='https://discord.gg/J6VqFPwvVp'>Support Discord</a></b></h5>
+<h2 align='center'>This is an <i>unofficial</i> fork of ESX Legacy</h2><h5 align='center'>Features have been removed and altered to add support for <a href='https://github.com/thelindat/linden_inventory/'>my inventory</a>. Do not use this framework standalone.<br>You can download all official ESX resources <a href='https://github.com/esx-framework/esx-legacy'>here</a>.</h5><br><br>
 
-<h1 align='center'>DEVELOPMENT ENDED</h1>
 
-*Latest ESX for linden inventory..(**NOT MY WORK**)*
+<h1 align='center'>ESX Legacy</a></h1><p align='center'><b><a href='https://discord.gg/cNx6HF9P5J'>Development Discord</a> - <a href='https://esx-framework.org/esx'>Website</a> - <a href='https://discord.gg/J6VqFPwvVp'>Support Discord</a></b></h5>
+
 
 ##### ESX is the most popular framework for creating economy-based roleplay servers on FiveM, with many official and community resources designed to utilise the tools provided here. For a taste of what's available:
 >	esx_identity: Enables character registration defining a players name, sex, height, and date of birth
@@ -13,7 +13,7 @@
 
 >	esx_vehicleshop: Allow players to purchase vehicles from a dealership, or setup society support for a player-managed dealership
 
->	esx_ambulancejob: Adds a death and respawn system while allowing players to work as EMS to heal and revive others
+>	esx_ambulancejop: Adds a death and respawn system while allowing players to work as EMS to heal and revive others
 
 Many more resources are included in this repository, or you can browse the [ESX Community Github](https://github.com/esx-community/) or [Cfx.re Releases board](https://forum.cfx.re/tag/esx) for more.
 
@@ -86,7 +86,9 @@ Many more resources are included in this repository, or you can browse the [ESX 
 
 ### Information
 ESX was initially developed by Gizz back in 2017 for his friend as the were creating an FiveM server and there wasn't any economy roleplaying frameworks available. The original code was written within a week or two and later open sourced, it has ever since been improved and parts been rewritten to further improve on it.
-- [ESX Documentation](https://esx-framework.github.io/es_extended/)
+- [ESX Forum](https://forum.esx-framework.org/)
+- [ESX Documentation](https://wiki.esx-framework.org/)
+- [ESX Development Discord](https://discord.me/esx)
 - [FiveM Native Reference](https://runtime.fivem.net/doc/reference.html)
 
 
@@ -96,7 +98,7 @@ ESX was initially developed by Gizz back in 2017 for his friend as the were crea
 
 es_extended - ESX framework for FiveM
 
-Copyright (C) 2015-2021  Jérémie N'gadi
+Copyright (C) 2015-2021 Jérémie N'gadi
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 

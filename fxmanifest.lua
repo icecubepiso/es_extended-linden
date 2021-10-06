@@ -36,12 +36,12 @@ server_scripts {
 
 	'common/modules/math.lua',
 	'common/modules/table.lua',
-	'common/functions.lua'
+	'common/functions.lua',
+	'common/interval.lua'
 }
 
 client_scripts {
 	'client/common.lua',
-	'client/entityiter.lua',
 	'client/functions.lua',
 	'client/wrapper.lua',
 	'client/main.lua',
@@ -52,7 +52,8 @@ client_scripts {
 
 	'common/modules/math.lua',
 	'common/modules/table.lua',
-	'common/functions.lua'
+	'common/functions.lua',
+	'common/interval.lua'
 }
 
 ui_page {
